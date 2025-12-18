@@ -127,8 +127,10 @@ urlpatterns = [
 ]```
 
 
- SERVER SIDE PROCESSING:mathserver/Screenshot 2025-12-18 104324.png
+# SERVER SIDE PROCESSING:
+<img width="1040" height="233" alt="Screenshot 2025-12-18 104324" src="https://github.com/user-attachments/assets/224b8b51-bad5-4ad4-bb15-f74f1225be39" />
 
- RESULT:mathserver/Screenshot 2025-12-18 104440.png
+# RESULT:
+<img width="1032" height="547" alt="Screenshot 2025-12-18 104440" src="https://github.com/user-attachments/assets/af32d0df-39f1-4101-8bc5-50b278c0a894" />
 
 The program for performing server side processing is completed successfully.
