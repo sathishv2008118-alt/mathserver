@@ -30,7 +30,7 @@ Publish the website in the given URL.
 
 # PROGRAM :
 sat.html
-```<html>
+<html>
 <head>
     <title>Lamp Power Calculator</title>
     <style>
@@ -101,7 +101,7 @@ sat.html
     </div>
     </center>
 </body>
-</html>```
+</html>
 views.py
 ```from django.shortcuts import render
 
